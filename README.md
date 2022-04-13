@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying in Fudan University
 - 🌱 I’m currently learning android reverse engineering
 - 📫 How to reach me: [HomePage](https://ashenone66.cn)
